@@ -1,0 +1,14 @@
+.header-lg {
+  height: 12vh !important;
+  position: sticky;
+  background: rgb(249, 249, 249);
+  color: black;
+  z-index: 10 !important;
+  top: 0 !important;
+  width: 100%;
+}
+.underline-custom {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+  font-size: 18px;
+}
